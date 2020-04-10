@@ -1,0 +1,7 @@
+!.gitignore
+!.cproject
+!.project
+!.settings/
+.vscode/
+*.d
+*.o
